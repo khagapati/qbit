@@ -1,0 +1,20 @@
+{
+    "Rarbg": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://rarbg.to/rssdd.php?categories=Movies"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "01 Oct 2019 03:54:34 +0000",
+        "mustContain": "|",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "useRegex": false
+    }
+}
